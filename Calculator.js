@@ -32,8 +32,7 @@ function factorial(x){
 	}	
 	return fact;
 }
-/*Esse código exibe o resultado de todas as operaçōes, mas tenho outro exemplo(bem parecido com esse), que exibe o resultado
-apenas da operação desejada e também tem algumas operaçōes a mais*/
+/*Esse código exibe o resultado de todas as operaçōes*/
 console.log('Sum: '+sum(res));
 console.log('Subtraction: '+subtraction(res));
 console.log('Multiplication: '+multiplication(res));
