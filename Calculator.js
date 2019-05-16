@@ -32,7 +32,6 @@ function factorial(x){
 	}	
 	return fact;
 }
-/*Esse código exibe o resultado de todas as operaçōes*/
 console.log('Sum: '+sum(res));
 console.log('Subtraction: '+subtraction(res));
 console.log('Multiplication: '+multiplication(res));
